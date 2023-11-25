@@ -1,0 +1,8 @@
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999;
+    background-color: aquamarine;
+}
+
